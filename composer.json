@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Base template for building Symfony bundles",
     "keywords": [],
-    "homepage": "https://github.com/norma-uy/TemplateSymfonyBundleBundle",
+    "homepage": "https://github.com/norma-uy/TemplateSymfonyBundle",
     "license": "MIT",
     "authors": [
         {
